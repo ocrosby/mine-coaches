@@ -1,0 +1,3505 @@
+[
+  {
+    "name": "Austin Peay",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "263",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/austin-peay/clgid-263",
+    "coaches_url": "https://letsgopeay.com/staff-directory/soccer-department/14",
+    "coaches": [
+        {
+            "name": "Kim McGowan",
+            "title": "Head Coach",
+            "url": "https://letsgopeay.com/staff-directory/kim-mcgowan/2528",
+            "email": "mcgowank@apsu.edu",
+            "phone": "(931) 221-7972",
+            "fax": "(931) 221-7830"
+        },
+        {
+            "name": "Taylor Borman",
+            "title": "Assistant Coach",
+            "url": "https://letsgopeay.com/staff-directory/taylor-borman/2570",
+            "email": "bormant@apsu.edu",
+            "phone": " (931) 221-7996",
+            "fax": "(931) 221-7830"
+        },
+        {
+            "name": "Emma Kershner",
+            "title": "Assistant Coach",
+            "url": "https://letsgopeay.com/staff-directory/emma-kershner/2539",
+            "email": "kershnere@apsu.edu",
+            "phone": "(931) 221-1019",
+            "fax": "(931) 221-7830"
+        },
+        {
+            "name": "Cera Prather",
+            "title": "Graduate Assistant",
+            "url": "https://letsgopeay.com/staff-directory/cera-prather/3636",
+            "email": "Cprather2@my.apsu.edu",
+            "phone": "",
+            "fax": "(931) 221-7830"
+        }
+    ]
+  },
+  {
+    "name": "Bellarmine",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "687",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/bellarmine/clgid-687"
+  },
+  {
+    "name": "Central Arkansas",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "543",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/central-arkansas/clgid-543"
+  },
+  {
+    "name": "Eastern Kentucky",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "264",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/eastern-kentucky/clgid-264"
+  },
+  {
+    "name": "FGCU",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "203",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/fgcu/clgid-203"
+  },
+  {
+    "name": "Jacksonville",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "193",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/jacksonville/clgid-193"
+  },
+  {
+    "name": "Kennesaw State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "202",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/kennesaw-state/clgid-202"
+  },
+  {
+    "name": "Lipscomb",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "200",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/lipscomb/clgid-200"
+  },
+  {
+    "name": "North Alabama",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "738",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/north-alabama/clgid-738"
+  },
+  {
+    "name": "North Florida",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "194",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/north-florida/clgid-194"
+  },
+  {
+    "name": "Queens (N.C.)",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "642",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/queens-(nc)/clgid-642"
+  },
+  {
+    "name": "Stetson",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "192",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/stetson/clgid-192"
+  },
+  {
+    "name": "Albany",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "6",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/albany/clgid-6"
+  },
+  {
+    "name": "Binghamton",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "7",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/binghamton/clgid-7"
+  },
+  {
+    "name": "Bryant",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "572",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/bryant/clgid-572"
+  },
+  {
+    "name": "Maine",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "4",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/maine/clgid-4"
+  },
+  {
+    "name": "Massachusetts-Lowell",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "805",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/massachusetts-lowell/clgid-805"
+  },
+  {
+    "name": "NJIT",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "558",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/njit/clgid-558"
+  },
+  {
+    "name": "New Hampshire",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "5",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/new-hampshire/clgid-5"
+  },
+  {
+    "name": "UMBC",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "3",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/umbc/clgid-3"
+  },
+  {
+    "name": "Vermont",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "America East",
+    "conference_tds_id": "1",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1&conferenceName=america-east",
+    "tds_id": "9",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/vermont/clgid-9"
+  },
+  {
+    "name": "Charlotte",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "13",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/charlotte/clgid-13"
+  },
+  {
+    "name": "East Carolina",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "230",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/east-carolina/clgid-230"
+  },
+  {
+    "name": "Florida Atlantic",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "321",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/florida-atlantic/clgid-321"
+  },
+  {
+    "name": "Memphis",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "95",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/memphis/clgid-95"
+  },
+  {
+    "name": "North Texas",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "324",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/north-texas/clgid-324"
+  },
+  {
+    "name": "Rice",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "232",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/rice/clgid-232"
+  },
+  {
+    "name": "SMU",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "96",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/smu/clgid-96"
+  },
+  {
+    "name": "South Florida",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "41",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/south-florida/clgid-41"
+  },
+  {
+    "name": "Temple",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "20",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/temple/clgid-20"
+  },
+  {
+    "name": "Tulsa",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "93",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/tulsa/clgid-93"
+  },
+  {
+    "name": "UAB",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "89",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/uab/clgid-89"
+  },
+  {
+    "name": "UTSA",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "American Athletic",
+    "conference_tds_id": "1047",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1047&conferenceName=american-athletic",
+    "tds_id": "297",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/utsa/clgid-297"
+  },
+  {
+    "name": "Davidson",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "506",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/davidson/clgid-506"
+  },
+  {
+    "name": "Dayton",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "17",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/dayton/clgid-17"
+  },
+  {
+    "name": "Duquesne",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "23",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/duquesne/clgid-23"
+  },
+  {
+    "name": "Fordham",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "14",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/fordham/clgid-14"
+  },
+  {
+    "name": "George Mason",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "84",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/george-mason/clgid-84"
+  },
+  {
+    "name": "George Washington",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "10",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/george-washington/clgid-10"
+  },
+  {
+    "name": "La Salle",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "18",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/la-salle/clgid-18"
+  },
+  {
+    "name": "Loyola-Chicago",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "98",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/loyola-chicago/clgid-98"
+  },
+  {
+    "name": "Massachusetts",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "11",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/massachusetts/clgid-11"
+  },
+  {
+    "name": "Rhode Island",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "21",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/rhode-island/clgid-21"
+  },
+  {
+    "name": "Richmond",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "22",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/richmond/clgid-22"
+  },
+  {
+    "name": "Saint Joseph's",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "19",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/saint-josephs/clgid-19"
+  },
+  {
+    "name": "Saint Louis",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "12",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/saint-louis/clgid-12"
+  },
+  {
+    "name": "St. Bonaventure",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "15",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/st-bonaventure/clgid-15"
+  },
+  {
+    "name": "VCU",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic 10",
+    "conference_tds_id": "2",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=2&conferenceName=atlantic-10",
+    "tds_id": "87",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/vcu/clgid-87"
+  },
+  {
+    "name": "Boston College",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "24",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/boston-college/clgid-24"
+  },
+  {
+    "name": "Clemson",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "30",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/clemson/clgid-30"
+  },
+  {
+    "name": "Duke",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "27",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/duke/clgid-27"
+  },
+  {
+    "name": "Florida State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "190",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/florida-state/clgid-190"
+  },
+  {
+    "name": "Louisville",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "527",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/louisville/clgid-527"
+  },
+  {
+    "name": "Miami (FL)",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "191",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/miami-(fl)/clgid-191"
+  },
+  {
+    "name": "NC State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "28",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/nc-state/clgid-28"
+  },
+  {
+    "name": "North Carolina",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "26",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/north-carolina/clgid-26"
+  },
+  {
+    "name": "Notre Dame",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "43",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/notre-dame/clgid-43"
+  },
+  {
+    "name": "Pittsburgh",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "50",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/pittsburgh/clgid-50"
+  },
+  {
+    "name": "Syracuse",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "48",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/syracuse/clgid-48"
+  },
+  {
+    "name": "Virginia",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "32",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/virginia/clgid-32"
+  },
+  {
+    "name": "Virginia Tech",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "31",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/virginia-tech/clgid-31"
+  },
+  {
+    "name": "Wake Forest",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Atlantic Coast",
+    "conference_tds_id": "3",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=3&conferenceName=atlantic-coast",
+    "tds_id": "29",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wake-forest/clgid-29"
+  },
+  {
+    "name": "BYU",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "251",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/byu/clgid-251"
+  },
+  {
+    "name": "Baylor",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "211",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/baylor/clgid-211"
+  },
+  {
+    "name": "Cincinnati",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "49",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/cincinnati/clgid-49"
+  },
+  {
+    "name": "Houston",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "233",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/houston/clgid-233"
+  },
+  {
+    "name": "Iowa State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "206",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/iowa-state/clgid-206"
+  },
+  {
+    "name": "Kansas",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "207",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/kansas/clgid-207"
+  },
+  {
+    "name": "Kansas State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "10334",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/kansas-state/clgid-10334"
+  },
+  {
+    "name": "Oklahoma",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "214",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/oklahoma/clgid-214"
+  },
+  {
+    "name": "Oklahoma State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "210",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/oklahoma-state/clgid-210"
+  },
+  {
+    "name": "TCU",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "250",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/tcu/clgid-250"
+  },
+  {
+    "name": "Texas",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "208",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/texas/clgid-208"
+  },
+  {
+    "name": "Texas Tech",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "212",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/texas-tech/clgid-212"
+  },
+  {
+    "name": "UCF",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "91",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/ucf/clgid-91"
+  },
+  {
+    "name": "West Virginia",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big 12",
+    "conference_tds_id": "23",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=23&conferenceName=big-12",
+    "tds_id": "54",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/west-virginia/clgid-54"
+  },
+  {
+    "name": "Butler",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "100",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/butler/clgid-100"
+  },
+  {
+    "name": "Connecticut",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "39",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/connecticut/clgid-39"
+  },
+  {
+    "name": "Creighton",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "137",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/creighton/clgid-137"
+  },
+  {
+    "name": "DePaul",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "42",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/depaul/clgid-42"
+  },
+  {
+    "name": "Georgetown",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "40",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/georgetown/clgid-40"
+  },
+  {
+    "name": "Marquette",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "53",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/marquette/clgid-53"
+  },
+  {
+    "name": "Providence",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "52",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/providence/clgid-52"
+  },
+  {
+    "name": "Seton Hall",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "46",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/seton-hall/clgid-46"
+  },
+  {
+    "name": "St. John's",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "47",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/st-johns/clgid-47"
+  },
+  {
+    "name": "Villanova",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "51",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/villanova/clgid-51"
+  },
+  {
+    "name": "Xavier",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big East",
+    "conference_tds_id": "5",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=5&conferenceName=big-east",
+    "tds_id": "16",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/xavier/clgid-16"
+  },
+  {
+    "name": "Eastern Washington",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "221",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/eastern-washington/clgid-221"
+  },
+  {
+    "name": "Idaho",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "336",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/idaho/clgid-336"
+  },
+  {
+    "name": "Idaho State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "222",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/idaho-state/clgid-222"
+  },
+  {
+    "name": "Montana",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "219",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/montana/clgid-219"
+  },
+  {
+    "name": "Northern Arizona",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "216",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northern-arizona/clgid-216"
+  },
+  {
+    "name": "Northern Colorado",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "220",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northern-colorado/clgid-220"
+  },
+  {
+    "name": "Portland State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "217",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/portland-state/clgid-217"
+  },
+  {
+    "name": "Sacramento State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "215",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/sacramento-state/clgid-215"
+  },
+  {
+    "name": "Weber State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Sky",
+    "conference_tds_id": "24",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=24&conferenceName=big-sky",
+    "tds_id": "218",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/weber-state/clgid-218"
+  },
+  {
+    "name": "Charleston Southern",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "223",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/charleston-southern/clgid-223"
+  },
+  {
+    "name": "Gardner-Webb",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "196",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/gardner-webb/clgid-196"
+  },
+  {
+    "name": "High Point",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "56",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/high-point/clgid-56"
+  },
+  {
+    "name": "Longwood",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "561",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/longwood/clgid-561"
+  },
+  {
+    "name": "Presbyterian",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "57",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/presbyterian/clgid-57"
+  },
+  {
+    "name": "Radford",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "62",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/radford/clgid-62"
+  },
+  {
+    "name": "UNC Asheville",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "55",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/unc-asheville/clgid-55"
+  },
+  {
+    "name": "USC Upstate",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "198",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/usc-upstate/clgid-198"
+  },
+  {
+    "name": "Winthrop",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big South",
+    "conference_tds_id": "6",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=6&conferenceName=big-south",
+    "tds_id": "59",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/winthrop/clgid-59"
+  },
+  {
+    "name": "Illinois",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "225",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/illinois/clgid-225"
+  },
+  {
+    "name": "Indiana",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "496",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/indiana/clgid-496"
+  },
+  {
+    "name": "Iowa",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "500",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/iowa/clgid-500"
+  },
+  {
+    "name": "Maryland",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "25",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/maryland/clgid-25"
+  },
+  {
+    "name": "Michigan",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "498",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/michigan/clgid-498"
+  },
+  {
+    "name": "Michigan State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "497",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/michigan-state/clgid-497"
+  },
+  {
+    "name": "Minnesota",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "224",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/minnesota/clgid-224"
+  },
+  {
+    "name": "Nebraska",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "213",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/nebraska/clgid-213"
+  },
+  {
+    "name": "Northwestern",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "499",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northwestern/clgid-499"
+  },
+  {
+    "name": "Ohio State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "502",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/ohio-state/clgid-502"
+  },
+  {
+    "name": "Penn State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "503",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/penn-state/clgid-503"
+  },
+  {
+    "name": "Purdue",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "226",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/purdue/clgid-226"
+  },
+  {
+    "name": "Rutgers",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "45",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/rutgers/clgid-45"
+  },
+  {
+    "name": "Wisconsin",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big Ten",
+    "conference_tds_id": "7",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=7&conferenceName=big-ten",
+    "tds_id": "501",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wisconsin/clgid-501"
+  },
+  {
+    "name": "CSU Bakersfield",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "557",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/csu-bakersfield/clgid-557"
+  },
+  {
+    "name": "CSUN",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "518",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/csun/clgid-518"
+  },
+  {
+    "name": "Cal Poly",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "517",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/cal-poly/clgid-517"
+  },
+  {
+    "name": "Cal State Fullerton",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "519",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/cal-state-fullerton/clgid-519"
+  },
+  {
+    "name": "Hawaii",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "335",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/hawaii/clgid-335"
+  },
+  {
+    "name": "Long Beach State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "227",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/long-beach-state/clgid-227"
+  },
+  {
+    "name": "UC Davis",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "513",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/uc-davis/clgid-513"
+  },
+  {
+    "name": "UC Irvine",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "514",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/uc-irvine/clgid-514"
+  },
+  {
+    "name": "UC Riverside",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "515",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/uc-riverside/clgid-515"
+  },
+  {
+    "name": "UC San Diego",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "592",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/uc-san-diego/clgid-592"
+  },
+  {
+    "name": "UC Santa Barbara",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Big West",
+    "conference_tds_id": "8",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=8&conferenceName=big-west",
+    "tds_id": "516",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/uc-santa-barbara/clgid-516"
+  },
+  {
+    "name": "Campbell",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "197",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/campbell/clgid-197"
+  },
+  {
+    "name": "College of Charleston",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "508",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/college-of-charleston/clgid-508"
+  },
+  {
+    "name": "Delaware",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "77",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/delaware/clgid-77"
+  },
+  {
+    "name": "Drexel",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "83",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/drexel/clgid-83"
+  },
+  {
+    "name": "Elon",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "511",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/elon/clgid-511"
+  },
+  {
+    "name": "Hampton University",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "10370",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/hampton-university/clgid-10370"
+  },
+  {
+    "name": "Hofstra",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "82",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/hofstra/clgid-82"
+  },
+  {
+    "name": "Monmouth",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "529",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/monmouth/clgid-529"
+  },
+  {
+    "name": "Northeastern",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "79",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northeastern/clgid-79"
+  },
+  {
+    "name": "Stony Brook",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "8",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/stony-brook/clgid-8"
+  },
+  {
+    "name": "Towson",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "80",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/towson/clgid-80"
+  },
+  {
+    "name": "UNC Wilmington",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "81",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/unc-wilmington/clgid-81"
+  },
+  {
+    "name": "William & Mary",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Colonial Athletic Association",
+    "conference_tds_id": "9",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=9&conferenceName=colonial-athletic-association",
+    "tds_id": "88",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/william-mary/clgid-88"
+  },
+  {
+    "name": "Florida International",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "322",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/florida-international/clgid-322"
+  },
+  {
+    "name": "Jacksonville State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "258",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/jacksonville-state/clgid-258"
+  },
+  {
+    "name": "Liberty",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "61",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/liberty/clgid-61"
+  },
+  {
+    "name": "Louisiana Tech",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "333",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/louisiana-tech/clgid-333"
+  },
+  {
+    "name": "Middle Tennessee",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "326",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/middle-tennessee/clgid-326"
+  },
+  {
+    "name": "New Mexico State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "565",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/new-mexico-state/clgid-565"
+  },
+  {
+    "name": "Sam Houston State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "292",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/sam-houston-state/clgid-292"
+  },
+  {
+    "name": "UTEP",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "234",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/utep/clgid-234"
+  },
+  {
+    "name": "Western Kentucky",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Conference USA",
+    "conference_tds_id": "10",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=10&conferenceName=conference-usa",
+    "tds_id": "323",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/western-kentucky/clgid-323"
+  },
+  {
+    "name": "Cleveland State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "103",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/cleveland-state/clgid-103"
+  },
+  {
+    "name": "Detroit Mercy",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "102",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/detroit-mercy/clgid-102"
+  },
+  {
+    "name": "IUPUI",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "311",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/iupui/clgid-311"
+  },
+  {
+    "name": "Northern Kentucky",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "704",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northern-kentucky/clgid-704"
+  },
+  {
+    "name": "Oakland",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "313",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/oakland/clgid-313"
+  },
+  {
+    "name": "Purdue Fort Wayne",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "310",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/purdue-fort-wayne/clgid-310"
+  },
+  {
+    "name": "Robert Morris",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "535",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/robert-morris/clgid-535"
+  },
+  {
+    "name": "Wisconsin-Green Bay",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "105",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wisconsin-green-bay/clgid-105"
+  },
+  {
+    "name": "Wisconsin-Milwaukee",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "106",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wisconsin-milwaukee/clgid-106"
+  },
+  {
+    "name": "Wright State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "104",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wright-state/clgid-104"
+  },
+  {
+    "name": "Youngstown State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Horizon League",
+    "conference_tds_id": "11",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=11&conferenceName=horizon-league",
+    "tds_id": "236",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/youngstown-state/clgid-236"
+  },
+  {
+    "name": "Chicago State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Independent",
+    "conference_tds_id": "47",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=47&conferenceName=independent",
+    "tds_id": "10221",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/chicago-state/clgid-10221"
+  },
+  {
+    "name": "South Carolina State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Independent",
+    "conference_tds_id": "47",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=47&conferenceName=independent",
+    "tds_id": "559",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/south-carolina-state/clgid-559"
+  },
+  {
+    "name": "Brown",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "113",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/brown/clgid-113"
+  },
+  {
+    "name": "Columbia",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "114",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/columbia/clgid-114"
+  },
+  {
+    "name": "Cornell",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "111",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/cornell/clgid-111"
+  },
+  {
+    "name": "Dartmouth",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "109",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/dartmouth/clgid-109"
+  },
+  {
+    "name": "Harvard",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "108",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/harvard/clgid-108"
+  },
+  {
+    "name": "Penn",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "112",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/penn/clgid-112"
+  },
+  {
+    "name": "Princeton",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "110",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/princeton/clgid-110"
+  },
+  {
+    "name": "Yale",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ivy League",
+    "conference_tds_id": "12",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=12&conferenceName=ivy-league",
+    "tds_id": "107",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/yale/clgid-107"
+  },
+  {
+    "name": "Canisius",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "119",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/canisius/clgid-119"
+  },
+  {
+    "name": "Fairfield",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "115",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/fairfield/clgid-115"
+  },
+  {
+    "name": "Iona University",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "121",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/iona-university/clgid-121"
+  },
+  {
+    "name": "Manhattan",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "124",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/manhattan/clgid-124"
+  },
+  {
+    "name": "Marist",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "123",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/marist/clgid-123"
+  },
+  {
+    "name": "Mount St. Mary's",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "536",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/mount-st-marys/clgid-536"
+  },
+  {
+    "name": "Niagara",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "122",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/niagara/clgid-122"
+  },
+  {
+    "name": "Quinnipiac",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "537",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/quinnipiac/clgid-537"
+  },
+  {
+    "name": "Rider",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "118",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/rider/clgid-118"
+  },
+  {
+    "name": "Saint Peter's",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "117",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/saint-peters/clgid-117"
+  },
+  {
+    "name": "Siena College",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Metro Atlantic Athletic Conference",
+    "conference_tds_id": "13",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=13&conferenceName=metro-atlantic-athletic-conference",
+    "tds_id": "120",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/siena-college/clgid-120"
+  },
+  {
+    "name": "Akron",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "128",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/akron/clgid-128"
+  },
+  {
+    "name": "Ball State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "240",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/ball-state/clgid-240"
+  },
+  {
+    "name": "Bowling Green",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "129",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/bowling-green/clgid-129"
+  },
+  {
+    "name": "Buffalo",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "440",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/buffalo/clgid-440"
+  },
+  {
+    "name": "Central Michigan",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "237",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/central-michigan/clgid-237"
+  },
+  {
+    "name": "Eastern Michigan",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "238",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/eastern-michigan/clgid-238"
+  },
+  {
+    "name": "Kent State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "243",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/kent-state/clgid-243"
+  },
+  {
+    "name": "Miami (OH)",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "239",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/miami-(oh)/clgid-239"
+  },
+  {
+    "name": "Northern Illinois",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "125",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northern-illinois/clgid-125"
+  },
+  {
+    "name": "Ohio University",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "241",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/ohio-university/clgid-241"
+  },
+  {
+    "name": "Toledo",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "242",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/toledo/clgid-242"
+  },
+  {
+    "name": "Western Michigan",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mid-American",
+    "conference_tds_id": "14",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=14&conferenceName=mid-american",
+    "tds_id": "126",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/western-michigan/clgid-126"
+  },
+  {
+    "name": "Belmont",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "199",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/belmont/clgid-199"
+  },
+  {
+    "name": "Drake",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "131",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/drake/clgid-131"
+  },
+  {
+    "name": "Evansville",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "134",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/evansville/clgid-134"
+  },
+  {
+    "name": "Illinois State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "244",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/illinois-state/clgid-244"
+  },
+  {
+    "name": "Indiana State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "245",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/indiana-state/clgid-245"
+  },
+  {
+    "name": "Missouri State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "136",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/missouri-state/clgid-136"
+  },
+  {
+    "name": "Murray State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "262",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/murray-state/clgid-262"
+  },
+  {
+    "name": "Northern Iowa",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "504",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northern-iowa/clgid-504"
+  },
+  {
+    "name": "Southern Illinois",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "10450",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/southern-illinois/clgid-10450"
+  },
+  {
+    "name": "UIC",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "10161",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/uic/clgid-10161"
+  },
+  {
+    "name": "Valparaiso",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Missouri Valley",
+    "conference_tds_id": "15",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=15&conferenceName=missouri-valley",
+    "tds_id": "101",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/valparaiso/clgid-101"
+  },
+  {
+    "name": "Air Force",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "247",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/air-force/clgid-247"
+  },
+  {
+    "name": "Boise State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "337",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/boise-state/clgid-337"
+  },
+  {
+    "name": "Colorado College",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "229",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/colorado-college/clgid-229"
+  },
+  {
+    "name": "Colorado State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "10160",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/colorado-state/clgid-10160"
+  },
+  {
+    "name": "Fresno State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "331",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/fresno-state/clgid-331"
+  },
+  {
+    "name": "Nevada",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "338",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/nevada/clgid-338"
+  },
+  {
+    "name": "New Mexico",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "248",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/new-mexico/clgid-248"
+  },
+  {
+    "name": "San Diego State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "246",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/san-diego-state/clgid-246"
+  },
+  {
+    "name": "San Jose State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "332",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/san-jose-state/clgid-332"
+  },
+  {
+    "name": "UNLV",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "249",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/unlv/clgid-249"
+  },
+  {
+    "name": "Utah State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "334",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/utah-state/clgid-334"
+  },
+  {
+    "name": "Wyoming",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Mountain West",
+    "conference_tds_id": "25",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=25&conferenceName=mountain-west",
+    "tds_id": "252",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wyoming/clgid-252"
+  },
+  {
+    "name": "Central Connecticut",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "530",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/central-connecticut/clgid-530"
+  },
+  {
+    "name": "Delaware State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "563",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/delaware-state/clgid-563"
+  },
+  {
+    "name": "Fairleigh Dickinson",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "533",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/fairleigh-dickinson/clgid-533"
+  },
+  {
+    "name": "Howard",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "562",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/howard/clgid-562"
+  },
+  {
+    "name": "LIU",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "532",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/liu/clgid-532"
+  },
+  {
+    "name": "Le Moyne",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "804",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/le-moyne/clgid-804"
+  },
+  {
+    "name": "Merrimack",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "808",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/merrimack/clgid-808"
+  },
+  {
+    "name": "Sacred Heart",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "531",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/sacred-heart/clgid-531"
+  },
+  {
+    "name": "St. Francis (Pa.)",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "534",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/st-francis-(pa)/clgid-534"
+  },
+  {
+    "name": "Stonehill",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "2940",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/stonehill/clgid-2940"
+  },
+  {
+    "name": "Wagner",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Northeast",
+    "conference_tds_id": "17",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=17&conferenceName=northeast",
+    "tds_id": "254",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wagner/clgid-254"
+  },
+  {
+    "name": "Eastern Illinois",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "255",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/eastern-illinois/clgid-255"
+  },
+  {
+    "name": "Lindenwood",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "1966",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/lindenwood/clgid-1966"
+  },
+  {
+    "name": "Little Rock",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "319",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/little-rock/clgid-319"
+  },
+  {
+    "name": "Morehead State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "260",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/morehead-state/clgid-260"
+  },
+  {
+    "name": "SIUE",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "566",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/siue/clgid-566"
+  },
+  {
+    "name": "Southeast Missouri State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "261",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/southeast-missouri-state/clgid-261"
+  },
+  {
+    "name": "Southern Indiana",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "711",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/southern-indiana/clgid-711"
+  },
+  {
+    "name": "Tennessee Tech",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "257",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/tennessee-tech/clgid-257"
+  },
+  {
+    "name": "UT Martin",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "259",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/ut-martin/clgid-259"
+  },
+  {
+    "name": "Western Illinois",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Ohio Valley",
+    "conference_tds_id": "26",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=26&conferenceName=ohio-valley",
+    "tds_id": "309",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/western-illinois/clgid-309"
+  },
+  {
+    "name": "Arizona",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "270",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/arizona/clgid-270"
+  },
+  {
+    "name": "Arizona State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "274",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/arizona-state/clgid-274"
+  },
+  {
+    "name": "California",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "265",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/california/clgid-265"
+  },
+  {
+    "name": "Colorado",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "205",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/colorado/clgid-205"
+  },
+  {
+    "name": "Oregon",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "273",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/oregon/clgid-273"
+  },
+  {
+    "name": "Oregon State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "268",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/oregon-state/clgid-268"
+  },
+  {
+    "name": "Stanford",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "267",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/stanford/clgid-267"
+  },
+  {
+    "name": "UCLA",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "266",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/ucla/clgid-266"
+  },
+  {
+    "name": "USC",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "271",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/usc/clgid-271"
+  },
+  {
+    "name": "Utah",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "253",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/utah/clgid-253"
+  },
+  {
+    "name": "Washington",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "269",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/washington/clgid-269"
+  },
+  {
+    "name": "Washington State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Pacific 12",
+    "conference_tds_id": "27",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=27&conferenceName=pacific-12",
+    "tds_id": "272",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/washington-state/clgid-272"
+  },
+  {
+    "name": "American",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "521",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/american/clgid-521"
+  },
+  {
+    "name": "Army",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "523",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/army/clgid-523"
+  },
+  {
+    "name": "Boston University",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "2",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/boston-university/clgid-2"
+  },
+  {
+    "name": "Bucknell",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "520",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/bucknell/clgid-520"
+  },
+  {
+    "name": "Colgate",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "524",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/colgate/clgid-524"
+  },
+  {
+    "name": "Holy Cross",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "455",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/holy-cross/clgid-455"
+  },
+  {
+    "name": "Lafayette",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "526",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/lafayette/clgid-526"
+  },
+  {
+    "name": "Lehigh",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "525",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/lehigh/clgid-525"
+  },
+  {
+    "name": "Loyola (MD)",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "116",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/loyola-(md)/clgid-116"
+  },
+  {
+    "name": "Navy",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Patriot League",
+    "conference_tds_id": "18",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=18&conferenceName=patriot-league",
+    "tds_id": "522",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/navy/clgid-522"
+  },
+  {
+    "name": "Alabama",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "280",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/alabama/clgid-280"
+  },
+  {
+    "name": "Arkansas",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "286",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/arkansas/clgid-286"
+  },
+  {
+    "name": "Auburn",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "279",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/auburn/clgid-279"
+  },
+  {
+    "name": "Florida",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "544",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/florida/clgid-544"
+  },
+  {
+    "name": "Georgia",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "278",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/georgia/clgid-278"
+  },
+  {
+    "name": "Kentucky",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "275",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/kentucky/clgid-275"
+  },
+  {
+    "name": "LSU",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "283",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/lsu/clgid-283"
+  },
+  {
+    "name": "Mississippi",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "285",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/mississippi/clgid-285"
+  },
+  {
+    "name": "Mississippi State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "284",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/mississippi-state/clgid-284"
+  },
+  {
+    "name": "Missouri",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "209",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/missouri/clgid-209"
+  },
+  {
+    "name": "South Carolina",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "276",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/south-carolina/clgid-276"
+  },
+  {
+    "name": "Tennessee",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "282",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/tennessee/clgid-282"
+  },
+  {
+    "name": "Texas A&M",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "204",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/texas-am/clgid-204"
+  },
+  {
+    "name": "Vanderbilt",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "SEC",
+    "conference_tds_id": "1044",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=1044&conferenceName=sec",
+    "tds_id": "277",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/vanderbilt/clgid-277"
+  },
+  {
+    "name": "East Tennessee State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "201",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/east-tennessee-state/clgid-201"
+  },
+  {
+    "name": "Furman",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "507",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/furman/clgid-507"
+  },
+  {
+    "name": "Mercer",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "195",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/mercer/clgid-195"
+  },
+  {
+    "name": "Samford",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "256",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/samford/clgid-256"
+  },
+  {
+    "name": "The Citadel",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "287",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/the-citadel/clgid-287"
+  },
+  {
+    "name": "UNC Greensboro",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "505",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/unc-greensboro/clgid-505"
+  },
+  {
+    "name": "UT Chattanooga",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "288",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/ut-chattanooga/clgid-288"
+  },
+  {
+    "name": "VMI",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "60",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/vmi/clgid-60"
+  },
+  {
+    "name": "Western Carolina",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "289",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/western-carolina/clgid-289"
+  },
+  {
+    "name": "Wofford",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southern",
+    "conference_tds_id": "19",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=19&conferenceName=southern",
+    "tds_id": "510",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/wofford/clgid-510"
+  },
+  {
+    "name": "Houston Christian",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "564",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/houston-christian/clgid-564"
+  },
+  {
+    "name": "Incarnate Word",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "774",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/incarnate-word/clgid-774"
+  },
+  {
+    "name": "Lamar",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "298",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/lamar/clgid-298"
+  },
+  {
+    "name": "McNeese State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "290",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/mcneese-state/clgid-290"
+  },
+  {
+    "name": "Nicholls",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "296",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/nicholls/clgid-296"
+  },
+  {
+    "name": "Northwestern State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "291",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/northwestern-state/clgid-291"
+  },
+  {
+    "name": "Southeastern Louisiana",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "295",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/southeastern-louisiana/clgid-295"
+  },
+  {
+    "name": "Texas A&M-Commerce",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "778",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/texas-am-commerce/clgid-778"
+  },
+  {
+    "name": "Texas A&M-Corpus Christi",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southland",
+    "conference_tds_id": "29",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=29&conferenceName=southland",
+    "tds_id": "10159",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/texas-am-corpus-christi/clgid-10159"
+  },
+  {
+    "name": "Alabama A&M",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "299",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/alabama-am/clgid-299"
+  },
+  {
+    "name": "Alabama State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "304",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/alabama-state/clgid-304"
+  },
+  {
+    "name": "Alcorn State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "305",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/alcorn-state/clgid-305"
+  },
+  {
+    "name": "Arkansas Pine Bluff",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "308",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/arkansas-pine-bluff/clgid-308"
+  },
+  {
+    "name": "Grambling State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "302",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/grambling-state/clgid-302"
+  },
+  {
+    "name": "Jackson State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "300",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/jackson-state/clgid-300"
+  },
+  {
+    "name": "Mississippi Valley",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "303",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/mississippi-valley/clgid-303"
+  },
+  {
+    "name": "Prairie View A&M",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "301",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/prairie-view-am/clgid-301"
+  },
+  {
+    "name": "Southern University",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "306",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/southern-university/clgid-306"
+  },
+  {
+    "name": "Texas Southern",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Southwestern Athletic",
+    "conference_tds_id": "30",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=30&conferenceName=southwestern-athletic",
+    "tds_id": "307",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/texas-southern/clgid-307"
+  },
+  {
+    "name": "Denver",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "320",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/denver/clgid-320"
+  },
+  {
+    "name": "North Dakota",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "556",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/north-dakota/clgid-556"
+  },
+  {
+    "name": "North Dakota State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "315",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/north-dakota-state/clgid-315"
+  },
+  {
+    "name": "Omaha",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "574",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/omaha/clgid-574"
+  },
+  {
+    "name": "Oral Roberts",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "314",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/oral-roberts/clgid-314"
+  },
+  {
+    "name": "South Dakota",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "567",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/south-dakota/clgid-567"
+  },
+  {
+    "name": "South Dakota State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "316",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/south-dakota-state/clgid-316"
+  },
+  {
+    "name": "St. Thomas (Minn.)",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "1411",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/st-thomas-(minn)/clgid-1411"
+  },
+  {
+    "name": "UMKC",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Summit League",
+    "conference_tds_id": "31",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=31&conferenceName=summit-league",
+    "tds_id": "568",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/umkc/clgid-568"
+  },
+  {
+    "name": "Appalachian State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "509",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/appalachian-state/clgid-509"
+  },
+  {
+    "name": "Arkansas State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "329",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/arkansas-state/clgid-329"
+  },
+  {
+    "name": "Coastal Carolina",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "58",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/coastal-carolina/clgid-58"
+  },
+  {
+    "name": "Georgia Southern",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "512",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/georgia-southern/clgid-512"
+  },
+  {
+    "name": "Georgia State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "78",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/georgia-state/clgid-78"
+  },
+  {
+    "name": "James Madison",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "85",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/james-madison/clgid-85"
+  },
+  {
+    "name": "Louisiana",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "325",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/louisiana/clgid-325"
+  },
+  {
+    "name": "Louisiana-Monroe",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "328",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/louisiana-monroe/clgid-328"
+  },
+  {
+    "name": "Marshall",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "97",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/marshall/clgid-97"
+  },
+  {
+    "name": "Old Dominion",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "86",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/old-dominion/clgid-86"
+  },
+  {
+    "name": "South Alabama",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "318",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/south-alabama/clgid-318"
+  },
+  {
+    "name": "Southern Mississippi",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "231",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/southern-mississippi/clgid-231"
+  },
+  {
+    "name": "Texas State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "293",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/texas-state/clgid-293"
+  },
+  {
+    "name": "Troy",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Sun Belt",
+    "conference_tds_id": "32",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=32&conferenceName=sun-belt",
+    "tds_id": "327",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/troy/clgid-327"
+  },
+  {
+    "name": "Gonzaga",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "493",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/gonzaga/clgid-493"
+  },
+  {
+    "name": "Loyola Marymount",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "470",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/loyola-marymount/clgid-470"
+  },
+  {
+    "name": "Pacific",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "228",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/pacific/clgid-228"
+  },
+  {
+    "name": "Pepperdine",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "330",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/pepperdine/clgid-330"
+  },
+  {
+    "name": "Portland",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "475",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/portland/clgid-475"
+  },
+  {
+    "name": "San Diego",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "491",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/san-diego/clgid-491"
+  },
+  {
+    "name": "San Francisco",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "473",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/san-francisco/clgid-473"
+  },
+  {
+    "name": "Santa Clara",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "474",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/santa-clara/clgid-474"
+  },
+  {
+    "name": "St. Mary's (CA)",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "West Coast",
+    "conference_tds_id": "21",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=21&conferenceName=west-coast",
+    "tds_id": "471",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/st-marys-(ca)/clgid-471"
+  },
+  {
+    "name": "Abilene Christian",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "769",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/abilene-christian/clgid-769"
+  },
+  {
+    "name": "California Baptist",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "845",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/california-baptist/clgid-845"
+  },
+  {
+    "name": "Grand Canyon",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "851",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/grand-canyon/clgid-851"
+  },
+  {
+    "name": "Seattle",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "552",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/seattle/clgid-552"
+  },
+  {
+    "name": "Southern Utah",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "317",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/southern-utah/clgid-317"
+  },
+  {
+    "name": "Stephen F. Austin",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "294",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/stephen-f-austin/clgid-294"
+  },
+  {
+    "name": "Tarleton State",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "10558",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/tarleton-state/clgid-10558"
+  },
+  {
+    "name": "UTRGV",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "10274",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/utrgv/clgid-10274"
+  },
+  {
+    "name": "Utah Tech",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "847",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/utah-tech/clgid-847"
+  },
+  {
+    "name": "Utah Valley",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "Western Athletic",
+    "conference_tds_id": "33",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=33&conferenceName=western-athletic",
+    "tds_id": "560",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/utah-valley/clgid-560"
+  }
+]
