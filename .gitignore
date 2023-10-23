@@ -58,3 +58,5 @@ dist/
 
 # Windows
 Thumbs.db
+
+*.pkl

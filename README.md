@@ -114,3 +114,7 @@ To make your program reentrant, you need to ensure that it can be paused and res
 
 By following these steps, you can make your program reentrant, allowing you to pause and resume its execution without losing progress or data. This is especially useful for long-running processes and critical applications where interruptions can occur.
 
+
+## Checkpoints
+
+My first Checkpoint is after the call to retrieve the list of teams from the API.  I will serialize the list of teams to a file and then resume from there.

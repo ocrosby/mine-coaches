@@ -2,8 +2,18 @@ from bs4 import BeautifulSoup
 
 from urllib.parse import urlparse
 
+class WebsiteProbe:
+    def __init__(self, soup):
+        self.soup = soup
 
-class SidearmSportsProbe:
+    def test(self):
+        """
+        Implement this method in child classes to check for specific elements.
+        Return True if the elements are found, otherwise return False.
+        """
+        pass
+
+class SidearmSportsProbe(WebsiteProbe):
     soup: BeautifulSoup
 
     def __init__(self, soup: BeautifulSoup):
@@ -32,3 +42,15 @@ class SidearmSportsProbe:
                     return True
 
         return False
+
+
+class TopDrawerSoccerProbe(WebsiteProbe):
+    def test(self):
+        # Implement the probe for TopDrawerSoccer
+        return False  # Replace with your logic
+
+
+class PrestoSportsProbe(WebsiteProbe):
+    def test(self):
+        # Implement the probe for PrestoSports
+        return False  # Replace with your logic
