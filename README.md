@@ -1,5 +1,75 @@
 # Mine Coaches
 
+## Overview
+
+### What do I need this thing to do?
+
+At present I have access to an endpoint that lists college teams from the SoccerHub API.
+
+For example:
+
+GET http://184.73.139.41/api/v1/tds/college/teams/?division=di&gender=female
+
+Will retrieve a JSON response containing all DI female soccer teams.  Each team has the
+form:
+
+```json
+  {
+    "name": "Austin Peay",
+    "gender": "female",
+    "division": "di",
+    "conference_name": "ASUN",
+    "conference_tds_id": "22",
+    "conference_tds_url": "https://www.topdrawersoccer.com/college/conference/?genderId=&conferenceId=22&conferenceName=asun",
+    "tds_id": "263",
+    "tds_url": "https://www.topdrawersoccer.com/college-soccer/college-soccer-details/women/austin-peay/clgid-263"
+  }
+```
+
+You will note the tds_url field.  This is the URL for the team on the TopDrawerSoccer website.
+
+This is my starting point. The question is how do I get from here to a list of all the coaches for a specified team?
+
+On that TopDrawerSoccer page most teams have a "Website link" button at the top right of the page that
+is essentially an anchor referencing the atheltics page of the teams website.
+
+For example Austin Peay's page has a link to their athletics page: 
+
+http://www.letsgopeay.com/
+
+When I navigate to that page I see a menu at the top allowing the user to select Teams, Tickets, Shop, NIL, Donate, ...
+
+But down at the bottom of the page I can see a reference to [sidarmsports.com](https://sidearmsports.com/).
+
+It appears that this company handles the athletics pages for a number of schools.  So I am trying to identify the
+website urls that appear to use them to see if I can figure out a pattern for how to access Women's Soccer coaching
+staff's contact information in a reliable way across their customers.  The same will have to be done for other 
+companies that provide similar services for college athletics departments.
+
+At present I am unaware of how many such companies there are and if each site they host is consistent enough to 
+allow me to do what I'm trying to do but I'm going to start with this one and see where it leads me.
+
+
+### What am I trying to do?
+
+Answer: I need something that lists all contact information for a specified set of women's Soccer teams.
+
+### Why is this so challenging?
+
+Answer: Each team has different methods for listing information about their coaches.
+
+### Are there any patterns?
+Answer: Yes, it appears there are companies out there that provide canned services to athletics departments for providing these details.
+
+### Can you identifier the patterns programmatically?
+
+Answer: It might be a little hit and miss there requiring an iterative approach to probing the page that has the coaches on it for each school.
+
+### For a given team how do I locate the page that contains that teams coaches?
+
+Answer: Since all I have is the TopDrawerSoccer URL from the API's teams endpoint I could start by visiting the "Website Link" for each team from TopDrawer.
+
+
 ## Usage
 
 To execute the main script run the following command:

@@ -99,27 +99,6 @@ def classify_website_url(website_url: str) -> str:
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    # What do I need this thing to do?
-
-    # What am I trying to do?
-    # Answer: I need something that lists all contact information for a specified set of
-    #         women's Soccer teams.
-
-    # Why is this so challenging?
-    # Answer: Each team has different methods for listing information about their coaches.
-
-    # Are there any patterns?
-    # Answer: Yes, it appears there are companies out there that provide canned services to
-    #         athletics departments for providing these details.
-
-    # Can you identifier the patterns programmatically?
-    # Answer: It might be a little hit and miss there requiring an iterative approach to probing
-    #         the page that has the coaches on it for each school.
-
-    # For a given team how do I locate the page that contains that teams coaches?
-    # Answer: Since all I have is the TopDrawerSoccer URL from the API's teams endpoint
-    #         I could start by visiting the "Website Link" for each team from TopDrawer.
-
     # Step 1: Retrieve the appropriate list of teams.
     division = "di"
     gender = "female"
