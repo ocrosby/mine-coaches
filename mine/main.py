@@ -5,8 +5,8 @@ import bs4
 
 import requests
 
-from models.team import Team
-from probes import SidearmSportsProbe
+from mine.models.team import Team
+from mine.probes import SidearmSportsProbe
 
 import warnings
 from urllib3.exceptions import InsecureRequestWarning
