@@ -7,8 +7,11 @@ import pickle
 
 import requests
 
+import utils
+
 from typing import Dict, List, Tuple
 
+from classify import WebsiteClassifier
 from mine.models.team import Team
 from mine.probes import SidearmSportsProbe, TopDrawerSoccerProbe, PrestoSportsProbe
 
@@ -62,77 +65,6 @@ def get_website_url(target_team: Team):
     return href
 
 
-def follow_redirections(url):
-    max_redirects = 5  # You can adjust the maximum number of redirects
-    for _ in range(max_redirects):
-        response = requests.get(url, allow_redirects=False)
-        if 300 <= response.status_code < 400:
-            location = response.headers.get('Location')
-            if location:
-                url = location
-            else:
-                break
-        else:
-            break
-    return url
-
-
-def classify_website_url(website_url: str) -> str:
-    """
-    Given a website url this function will classify it as one of the following:
-    - TopDrawerSoccer
-    - PrestoSports
-    - SidearmSports
-    - Other
-
-    The process of classifying a website url will be done by attempting to load the page
-    and then looking for specific elements on the page that are unique to each of the
-    above categories.  In order to modularize the process I will create a set of Probes
-    each one will be responsible for probing a page for identifying elements.
-
-    This make take some iteration to determine the set of all classifications that are
-    required to effectively return coaching information consistently across the NCAA.
-
-    Game on!
-
-    :param website_url:
-    :return:
-    """
-    try:
-        # Load the soup from the website_url
-        final_url = follow_redirections(website_url)
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
-        }
-        response = requests.get(final_url, headers=headers) # Some sites require the User-Agent header
-        response.raise_for_status()
-        if response.status_code != 200:
-            raise Exception(f"Failed to fetch the website page for: {final_url}")
-
-        html_content = response.content
-        soup = bs4.BeautifulSoup(html_content, "html.parser")
-
-        probes = [
-            SidearmSportsProbe(soup),
-            TopDrawerSoccerProbe(soup),
-            PrestoSportsProbe(soup)
-            # Add more probes as needed
-        ]
-
-        for probe in probes:
-            if probe.test():
-                return probe.__class__.__name__
-
-        return "Other"
-    except requests.exceptions.RequestException as e:
-        print(f"Request error: {e}")
-        return "Other"
-    except Exception as e:
-        print(f"Error classifying website url: {website_url}")
-        print(e)
-        return "Other"
-
-
 def save_state(state, checkpoint_file):
     with open(checkpoint_file, 'wb') as file:
         pickle.dump(state, file)
@@ -174,7 +106,7 @@ def original():
         print(team.name)
 
     # At this point I have a dict containing mappings from team names and website urls.
-    # If I were to visit each website url how would I classify each one to determine
+    # If I were to visit each website url how would I classify.py each one to determine
     # what to do to extract the coach information?
 
     # I need a collection of strategies. Each strategy will be responsible for extracting
@@ -183,12 +115,14 @@ def original():
 
     # sidearmsports_probe = SidearmSportsProbe()
 
+    classifier = WebsiteClassifier()
+
     for team in sorted_teams:
         # determine if the current team contains a website_url
         if team.name in team_website_urls:
             website_url = team_website_urls[team.name]
             print(f"Classifying website url: {website_url}")
-            website_url_classification = classify_website_url(website_url)
+            website_url_classification = classifier.classify(website_url)
             print(f"Classification: {website_url_classification}")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
@@ -203,6 +137,7 @@ def extract_website_urls(teams: List[Team]) -> Tuple[Dict[str, str], List[Team]]
 
         try:
             team_website_urls[team.name] = get_website_url(team)
+            print(f"'{team.name}' -> '{team_website_urls[team.name]}'")
         except Exception as e:
             problem_teams.append(team)
             print(f"Error fetching website url for team: {team.name}")
@@ -211,7 +146,7 @@ def extract_website_urls(teams: List[Team]) -> Tuple[Dict[str, str], List[Team]]
     return (team_website_urls, problem_teams)
 
 
-def main(division: str, gender: str):
+def main(division: str, gender: str, classifier: WebsiteClassifier):
     checkpoint1_file = 'checkpoint1.pkl'
     checkpoint2_file = 'checkpoint2.pkl'
     checkpoint3_file = 'checkpoint3.pkl'
@@ -258,7 +193,7 @@ def main(division: str, gender: str):
         for school_name in website_classifications:
             print(f"Website classification: {school_name} -> '{website_classifications[school_name]}'")
     except FileNotFoundError:
-        # If checkpoint 3 doesn't exist, classify website URLs based on checkpoint2 data
+        # If checkpoint 3 doesn't exist, classify.py website URLs based on checkpoint2 data
         website_classifications = {}
         for school_name in website_urls:
             try:
@@ -272,7 +207,7 @@ def main(division: str, gender: str):
                 # First I want to log the error so I can see what the problem is.
                 # I would also like a file that contains the name of the school and the URL that caused
                 # the error.
-                classification = classify_website_url(website_url)
+                classification = classifier.classify(website_url)
 
                 website_classifications[school_name] = classification
                 print(f"Classification: {website_classifications[school_name]}")
@@ -285,5 +220,6 @@ def main(division: str, gender: str):
 if __name__ == "__main__":
     division = "di"
     gender = "female"
+    classifier = WebsiteClassifier()
 
-    main(division, gender)
+    main(division, gender, classifier)
